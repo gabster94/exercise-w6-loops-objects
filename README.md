@@ -6,7 +6,7 @@
 
 # JavaScript Loops & Objects
 
-In this week’s team session, you will practice JavaScript basics and work on applying the concepts we have learned throughout the week. This will be done during the scheduled team session, you decide in the team if to do it in small groups or pairs.
+In this week’s team session, you will practice JavaScript basics and work on applying the concepts we have learned throughout the week.
 
 ### Instructions:
 
